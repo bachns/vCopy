@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/cancel.svg</file>
+        <file>Resources/file.svg</file>
+        <file>Resources/folder.svg</file>
+        <file>Resources/stop.svg</file>
+        <file>Resources/copy.svg</file>
+        <file>Resources/logs.svg</file>
+        <file>Resources/start.svg</file>
+    </qresource>
+</RCC>
